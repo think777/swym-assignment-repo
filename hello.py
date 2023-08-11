@@ -23,11 +23,10 @@ def get_metrics():
 
 if __name__ == '__main__':
     # Start up the server to expose the metrics.
-    
+    print("Hello World")
+
     start_http_server(8000)
 
-    print("Hello World")
-    
     # Start collecting and exposing metrics
     get_metrics()
 
