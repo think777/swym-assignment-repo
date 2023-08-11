@@ -26,3 +26,7 @@ The automate.sh shell script automates the setup:
     Waits for 2 days as required by Task 1.
     Gracefully shuts down the container.
 
+Video Link:
+
+https://drive.google.com/file/d/1YlEs5cODBui5gJmLhPdLiXGuVb49HROt/view?usp=sharing
+
